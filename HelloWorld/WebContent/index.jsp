@@ -8,6 +8,7 @@
 </head>
 <body>
 	<h1>Hello World</h1>
+	<h2>Happy New Year!</h2>
 	<div> 
 		<h2>Kontinente</h2>
 		<ul> 
