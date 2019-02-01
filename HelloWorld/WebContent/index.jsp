@@ -14,8 +14,10 @@
 		<ul> 
 			<li>Afrika</li>
 			<li>Antarktika</li>
-			<li>Asien</li> 
+			<li>Asien</li>
+			<li>Australien</li>
 			<li>...</li>
+
 		</ul>
 	</div>
 </body>
