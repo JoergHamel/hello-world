@@ -15,8 +15,7 @@
 			<li>Afrika</li>
 			<li>Antarktika</li>
 			<li>Asien</li> 
-			<li>Europa</li>
-			<li>..</li>
+			<li>...</li>
 		</ul>
 	</div>
 </body>
